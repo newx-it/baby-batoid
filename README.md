@@ -1,7 +1,7 @@
 # baby-batoid
  baby (8u) version of Kotte's Batoid keeb
 
-<img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/logo.jpg?raw=true" width=33% height=33%><img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/backvue.jpg?raw=true" width=33% height=33%>
+<img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/logo.jpg?raw=true" width=33% height=33%><img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/topvue2.jpg?raw=true" width=33% height=33%><img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/backvue.jpg?raw=true" width=33% height=33%>
 
 this keeb was designed using Noah Kiser's STM32 template and tutorial.
 
