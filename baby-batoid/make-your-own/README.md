@@ -1,4 +1,13 @@
-these files are for ordering from JLCPCB!
+<img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/caseconstruction.png?raw=true" width=100% height=100%>
+example parts: 
+
+https://www.amazon.com/gp/product/B0D4JLT8V9?smid=A1ZRRCZIF57JQ9&psc=1
+
+https://www.amazon.com/gp/product/B0D9N5D5GT?smid=A30WUG2ZDGM0XM&psc=1
+
+https://www.amazon.com/gp/product/B08CDGRLCK?smid=A2H9WUOZ01R77L&th=1
+
+these files are for ordering from JLCPCB and 3d printing your own case
 
 you will most likely need to rotate some parts and align the switches and diodes, but as long as you take a quick look at the schematic in kicad that should be easy. contact me with any questions @ turnisaa.sgtworms@gmail.com :D
 
