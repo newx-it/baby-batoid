@@ -1,8 +1,6 @@
 <img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/caseconstruction.png?raw=true" width=50% height=50%><img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/caseconstruction2.png?raw=true" width=50% height=50%>
 example parts: 
 
-https://www.amazon.com/gp/product/B0D4JLT8V9?smid=A1ZRRCZIF57JQ9&psc=1
-
 https://www.amazon.com/gp/product/B0D9N5D5GT?smid=A30WUG2ZDGM0XM&psc=1
 
 https://www.amazon.com/gp/product/B08CDGRLCK?smid=A2H9WUOZ01R77L&th=1
