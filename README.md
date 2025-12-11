@@ -3,7 +3,7 @@
 
  to order your own, use the files in baby-batoid/baby-batoid/make-your-own
  
- the case is a VERY tight fit. this has hopefully fixed but i have not tested it
+ the case is a VERY tight fit. this has hopefully been fixed but i have not tested it
 
 <img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/babybatoid.jpg?raw=true" width=50% height=50%><img src="https://github.com/turnisaa-sgtworms/baby-batoid/blob/main/baby-batoid/images/freshcases.jpg?raw=true" width=50% height=50%>
 
